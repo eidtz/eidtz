@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=eidtz.editz&rstyle=plastic&left_text=Profile%20Views%20:"  />
+</div>
