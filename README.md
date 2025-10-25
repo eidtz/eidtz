@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=eidtz.editz&rstyle=plastic&left_text=Profile%20Views%20:"  />
 </div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
